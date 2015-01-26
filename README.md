@@ -16,6 +16,7 @@ Archiv for Mathematik of Naturvidenskab = "Arch.~Math.~Naturvidenskab",
      which morphed along with Arkiv för Fysik into Physica Scripta in 197)
 Acta Physica Polonica A JOURNAL = "Acta~Phys.~Pol.~A"
 Advances Atomic Molecular Physics JOURNAL = "Adv.~At.~Mol.~Phys.",
+Advances in Physics JOURNAL = "Adv.~Phys.",
 Advances in Quantum Chemistry JOURNAL = "Adv.~Quantum.~Chem.",
 Astronomische Nachrichten JOURNAL = "Astron.~Nachr.",
 Atomic Data and Nuclear Data Tables JOURNAL = "At.~Data~Nucl.~Data~Tables"
