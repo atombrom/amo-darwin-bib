@@ -3,10 +3,9 @@ LaTeX bibliography of Bromley/Mitroy groups research on positrons, atoms, ions a
 
 @COMMENT{
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% amo-darwin.bib circa January 2015
-% Collection of Atomic Physics initially e+/Ps papers
-% and related Mitroy and Bromley Group papers
-% Updates https://github.com/atombrom/amo-darwin-bib
+% This file is the README/documentation of some
+% bibtex style and abbreviations used in main file
+%       amo-darwin.bib 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 
 Bibliographic Abbreviations (conforming to Phys.Rev.A style)
